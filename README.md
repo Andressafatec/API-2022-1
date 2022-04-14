@@ -39,7 +39,7 @@ Depois de baixar o [python](https://www.pyth.org/download/) e clonar o projeto (
 cd API-2022-1
 
 # Instale as dependências
-pip install -r requirements.
+pip install -r requirements.txt
       
 # Habilitar recurso de desenvolvimento
 set FLASK_ENV=development
