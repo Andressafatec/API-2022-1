@@ -24,7 +24,7 @@
 Tema: Sistema de Gestão de Serviços de Tecnologia da Informação
 <h4>O projeto tem como objetivo desenvolver um sistema que controlar a prestação de serviços de TI, tanto sob o ponto de vista do cliente como do executor</h4>
 
-> _Projeto baseado na metodologia ágil SCRUM, desenvolver a Proatividade, Autonomia e Entrega de Resultados envolvidos_ <br><br>
+> _Projeto baseado na metodologia ágil SCRUM_ <br><br>
 > **Status do Projeto: Desenvolvendo**
 
 <span id="executar">
